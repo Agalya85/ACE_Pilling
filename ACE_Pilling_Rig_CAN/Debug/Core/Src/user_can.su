@@ -1,0 +1,9 @@
+user_can.c:222:6:canFilterConfig	8	static
+user_can.c:363:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+user_can.c:538:6:HAL_CAN_ErrorCallback	16	static
+user_can.c:581:10:isCommandIdConfigured	16	static
+user_can.c:651:6:parseCanMessageQueue	80	static
+user_can.c:739:6:executeCANQueries	8	static
+user_can.c:812:6:updateCANQuery	40	static
+user_can.c:1010:6:sendMessageCAN	8	static
+user_can.c:1035:6:CAN_HeartBeat_Signal_Data	8	static

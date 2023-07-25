@@ -1,0 +1,12 @@
+stm32l4xx_ll_usart.h:3183:26:LL_USART_IsActiveFlag_TXE	16	static
+stm32l4xx_ll_usart.h:4568:22:LL_USART_TransmitData8	16	static
+gsmEC200U.c:379:6:initGSMSIM868	16	static
+gsmEC200U.c:515:6:operateGSMSIM868	4832	static
+gsmEC200U.c:738:6:sendGSMCommand	80	static
+gsmEC200U.c:1658:6:updateHttpDataLength	48	static
+gsmEC200U.c:1892:6:updatePhoneNumber	4	static
+gsmEC200U.c:1955:6:syncrtcwithNetworkTime	8	static
+gsmEC200U.c:2027:10:updateHTTPReadLength	24	static
+gsmEC200U.c:2089:6:initHTTPURLforFOTA	4	static
+gsmEC200U.c:2098:6:UrlLenforFOTA	16	static
+gsmEC200U.c:2109:6:Deinit_FOTA_Fail	8	static
